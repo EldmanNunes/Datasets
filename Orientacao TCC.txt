@@ -1,0 +1,99 @@
+BIG DATA CLOULD
+GALDIR
+ 
+
+TÍTULO
+
+TEMA/PROBLEMA: Otimizando a compensação entre velocidade e precisão 
+OBJ: para re-identificação de pessoas 
+MÉTODO: via destilação de conhecimento
+ 
+
+RESUMO:
+- PROBLEMA GERAL: 
+- OBJ
+- MÉTODO
+- RESULTADO
+
+1. INTRODUÇÃO
+
+- TEMA GERAL
+- PROBLEMA
+- OBJETIVO
+- MÉTODO
+- ORGANIZAÇÃO DO ARTIGO
+
+2. TRABALHOS RELACIONADOS
+
+3. REFERENCIAL TEÓRICO
+
+4. MÉTODOS
+
+5. EXPERIMENTOS
+
+6. CONCLUSÃO
+
+REFERÊNCIAS
+
+
+
+
+----------------
+Silva, Luciano Alves da. Power Bi Desktop. Editora Clube De Autores. 402p. 2021
+
+
+Oliveira, Rogério de. Visualização de Dados em Python. Editora Mackenzie. 166p. 2020.
+https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python
+
+1. Introdução - 4
+2. Básico: Colab, Python, NumPy e Pandas - 12
+3. Gráficos com Matplotlib - 32
+4. Evolução - 51
+5. Distribuição - 75
+6. Quantidades e Proporções -  105
+7. Relações - 131
+8. Boas Práticas de Visualização - 150
+9. Bibliografia e Recursos - 160
+
+------------------------
+
+
+
+1) ANÁLISE DO PROBLEMA
+- CONTEXTUALIZAR O PROBLEMA
+- PROPOR A SOLUÇÃO
+
+
+2) ANÁLISE DOS DADOS
+- ESTUDAR CONJUNTO DADOS
+- SELECIONAR AS SUAS VARIÁVEIS
+- PRÉ-PROCESSAMENTO DO CONJUNTO
+- SALVA O CONJ PRÉPROCESSADO
+
+3) CONSTRUÇÃO DO MODELO FUZZY
+- MODELAGEM DO CONTROLE
+- RESULTADOS DO CONTROLADOR
+- SALVO PREVISOES
+
+
+4) AVALIAÇÃO DO MODELO
+LE CONJ PREVISÕES
+AVALIA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
