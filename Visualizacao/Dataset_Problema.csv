@@ -1,6 +1,4 @@
 IMC,ID,PASistolica,PADiastolica,TempCorporal,FreqCardiaca,peso,altura,sexo
-Magreza Normal Obesidade\ grau\ I Obesidade\ grau\ II Obesidade\ grau\ III Sobrepeso,continuous,continuous,continuous,continuous,continuous,continuous,continuous,F Feminino M Masculino
-class,,,,,,,,
 Normal,1,130,80,98,86,52.6855,1.66554,Masculino
 Sobrepeso,2,140,90,98,70,59.1790,1.51009,Feminino
 Magreza,3,90,70,100,80,53.0558,1.79069,M
